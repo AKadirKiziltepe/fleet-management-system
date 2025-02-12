@@ -1,6 +1,6 @@
 # Filo Yönetim Sistemi
 
-Bu proje Abdilkadir KIZILTEPE tarafından İnmak Aş.ye adanmış, araç filolarının etkin yönetimi için geliştirilmiş açık kaynak kodlu web tabanlı bir uygulamadır.
+Bu proje Abdilkadir KIZILTEPE tarafından "SBB"'ye adanmış, araç filolarının etkin yönetimi için geliştirilmiş açık kaynak kodlu web tabanlı bir uygulamadır.
 
 ## Özellikler
 

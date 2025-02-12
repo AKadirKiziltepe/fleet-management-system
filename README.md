@@ -1,6 +1,6 @@
 # Filo Yönetim Sistemi
 
-Bu proje, araç filolarının etkin yönetimi için geliştirilmiş bir web uygulamasıdır.
+Bu proje Abdilkadir KIZILTEPE tarafından İnmak Aş.ye adanmış, araç filolarının etkin yönetimi için geliştirilmiş açık kaynak kodlu web tabanlı bir uygulamadır.
 
 ## Özellikler
 

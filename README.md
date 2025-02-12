@@ -1,6 +1,6 @@
 # Filo Yönetim Sistemi
 
-Bu proje Abdilkadir KIZILTEPE tarafından, araç filolarının etkin yönetimi için geliştirilmiş İnmak.Aş.'ye adanmış açık kaynak kodlu native bir uygulamadır.
+Bu proje, araç filolarının etkin yönetimi için geliştirilmiş bir web uygulamasıdır.
 
 ## Özellikler
 
@@ -42,4 +42,3 @@ npm run dev
 ## Lisans
 
 MIT
-
